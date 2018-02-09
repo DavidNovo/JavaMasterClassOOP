@@ -3,7 +3,7 @@ package net.novogrodsky;
 /*
 net.novogrodsky.Hello, set language in File ->Project Structure
  */
-public class Hello {
+public class Main {
 
   /**
    * This is a class used for testing code from the class.
