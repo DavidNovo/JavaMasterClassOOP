@@ -16,5 +16,9 @@ public class Main {
     Dog testDog = new Dog(2,5);
 
     testDog.eat();
+    Chair newChair = new Chair();
+
+    Room newRoom = new Room(newChair);
+
   }
 }
